@@ -4,10 +4,11 @@ Chrome Extension to download your MyFVTC class schedule as a .ics (Calendar) fil
 
 ### Installation
 
-1. To install, download the files as a .zip file. Extract the contents somewhere on your computer.
-2. Open Chrome and open the Extensions tab. (... > More Tools > Extensions).
-3. Turn on Developer Mode (top-right corner), then select the Load unpacked button.
-4. Select the folder that you extracted in step 1.
+1. To install, download the files as a .zip file, using the green Code button above.
+2. Extract the contents somewhere on your computer.
+3. Open Chrome and open the Extensions tab. (... > More Tools > Extensions).
+4. Turn on Developer Mode (top-right corner), then select the Load unpacked button.
+5. Select the folder that you extracted in step 1.
 
 ### Usage
 
